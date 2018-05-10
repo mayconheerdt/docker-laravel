@@ -1,4 +1,4 @@
-# Docker Laravel (LEMP stack with PHP7, ELK, REDIS)
+# Docker Laravel (LEMP stack with PHP7, ELK, ELS, REDIS)
 
 [![Build Status](https://travis-ci.org/purinda/docker-laravel.svg?branch=master)](https://travis-ci.org/purinda/docker-laravel)
 
